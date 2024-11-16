@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vannishh
 - 👀 I’m interested in developing.
-- 🌱 I’m currently learning many languagesm
+- 🌱 I’m currently learning many languages.
 - 💞️ I’m looking to collaborate on yandex.
 - 📫 How to reach me:
 - mail - dmitriykorotkev1ch@yandex.ru
