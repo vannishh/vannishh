@@ -7,7 +7,7 @@
 - tg - @dimmqa
 - ds - @thisisvanish
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i love cats
+- ⚡ Fun fact: i love
 
 <!---
 vannishh/vannishh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
